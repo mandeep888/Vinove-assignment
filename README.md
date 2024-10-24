@@ -8,7 +8,6 @@ This Flutter project provides real-time tracking of users' locations and allows 
 1. *Attendance List*  
    - *Access: Start by going to the **Attendance* section from the menu. Here, you'll see a list of members, each with two icons on the right.
    - *Check Location: The **second icon* lets you see the current location and travel history of a member.
-   - ![Attendance List](https://github.com/mandeep888/Vinove-assignment/blob/master/assets/attendance.jpg?raw=true)
      <p align="center">
        <img src="https://github.com/mandeep888/Vinove-assignment/blob/master/assets/attendance.jpg?raw=true" width="400">
      </p>
@@ -16,7 +15,6 @@ This Flutter project provides real-time tracking of users' locations and allows 
 2. *Real-Time Location Tracking*  
    - The live location of a member is displayed on an interactive map, allowing you to track their real-time movements.
    - The map updates dynamically as the member’s location changes, providing up-to-date tracking in a visually intuitive manner.
-   - ![Map View](https://github.com/mandeep888/Vinove-assignment/blob/master/assets/map.jpg?raw=true)
      <p align="center">
        <img src="https://github.com/mandeep888/Vinove-assignment/blob/master/assets/map.jpg?raw=true" width="400">
      </p>
@@ -36,14 +34,12 @@ This Flutter project provides real-time tracking of users' locations and allows 
        - Total Distance covered (in kilometers)
        - Total Time taken between points
      - Stops lasting more than 10 minutes are marked with distinct markers, making it easy to identify significant halts during the journey.
-     - ![Route View](https://github.com/mandeep888/Vinove-assignment/blob/master/assets/route.jpg?raw=true)
        <p align="center">
          <img src="https://github.com/mandeep888/Vinove-assignment/blob/master/assets/route.jpg?raw=true" width="400">
        </p>
 
 5. *Drawer Menu*  
    - The app includes a navigation drawer for easy access to various sections of the app, including attendance, live location, and route history.
-   - ![Drawer](https://github.com/mandeep888/Vinove-assignment/blob/master/assets/Drawer.jpg?raw=true)
      <p align="center">
        <img src="https://github.com/mandeep888/Vinove-assignment/blob/master/assets/Drawer.jpg?raw=true" width="400">
      </p>
